@@ -1,4 +1,7 @@
 # Student Matching Logic
+<p align="center">
+  <img src ="https://github.com/rishika3895/HerFuture_assignment/blob/main/Assignment.png">
+</p>
 
 ### Overview
 I created this code to solve the challenge of pairing students for 1:1 sessions. The goal was to give every student up to 3 matches while ensuring that we respect their "blocked" lists and keep the distribution fair.
